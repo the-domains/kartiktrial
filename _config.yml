@@ -1,0 +1,28 @@
+name: kartiktrial
+favicon: null
+layout_spectrum: 0.5654613552615047
+typography_spectrum: 0.3262900172267109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9602825127076358
+  lightness: 0.9629052036907524
+  saturation: 0.18214873829856515
+  rhythmicContrast: 0.32421316276304424
+purpose: []
